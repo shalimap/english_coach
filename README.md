@@ -1,4 +1,4 @@
-📱 English Coach App
+English Coach App
 
 A multilingual mobile application built using Flutter to help users improve English through structured modules, audio content, and interactive features.
 
